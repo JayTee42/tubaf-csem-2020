@@ -1,5 +1,5 @@
 # Modul "Seminar: Exploring data structures in C" 2020 (TUBAF)
-Liebe MM-Teilnehmer/-innen,
+Liebe Seminar-Teilnehmer/-innen,
 
 aufgrund der Corona-Pandemie findet das Seminar für Datenstrukturen in C in diesem Semester in digitaler Form statt.
 Wir werden die Einführungsveranstaltung (Montag, 6. April, 11:00 Uhr) voraussichtlich über BigBlueButton streamen.
