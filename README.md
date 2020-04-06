@@ -20,6 +20,6 @@ Unsere Vorschläge für Datenstrukturen:
  - Red-Black-Tree ⭐⭐⭐
  - AVL-Tree ⭐⭐⭐
 
-Eigene Vorschläge sind willkommen. Die [Folien](https://github.com/JayTee42/tubaf-csem-2020/blob/master/Folien.pdf) (und bald die Guideline) sowie [Beispiele für Compilersanitizer](https://github.com/JayTee42/tubaf-csem-2020/tree/master/sanitizing) findet Ihr im Repo. Wir werden auch die Aufzeichnung der Einführungsveranstaltung hier verlinken, sobald sie fertig gerendert ist.
+Eigene Vorschläge sind willkommen. Die [Folien](https://github.com/JayTee42/tubaf-csem-2020/blob/master/Folien.pdf) (und bald die Guideline) sowie [Beispiele für Compilersanitizer](https://github.com/JayTee42/tubaf-csem-2020/tree/master/sanitizing) findet Ihr im Repo. Außerdem steht die [Einführungsveranstaltung als Mitschnitt](https://teach.informatik.tu-freiberg.de/playback/presentation/2.0/playback.html?meetingId=77313f13d5ed32e404d540292a0e3a21bd95f14d-1586158427411) zur Verfügung.
 
 *Bitte schickt uns Euer Themenranking (drei Vorschläge) bis Montag, den 13. April, wenn Ihr teilnehmen möchtet!*
